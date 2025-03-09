@@ -29,7 +29,7 @@ export default function Home() {
             </p>
 
             <div>
-              <Link href="mailto:priyansxu@proton.me" target="_blank" rel="noreferrer">
+              <Link href="mailto:priyansxu@yahoo.com" target="_blank" rel="noreferrer">
                 <Button size="xl" className="w-full font-bold">
                   E-mail me
                 </Button>
