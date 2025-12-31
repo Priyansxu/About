@@ -17,7 +17,7 @@ export default function Home() {
               01
             </span>
             <p className="pb-6 font-medium">
-              Priyanshu Gupta, born in 2007. A passionate and curious individual with a keen interest in programming, graphics designing, psychology, and space exploration. Instagram{" "}
+              Priyanshu Gupta, born in 2007. A passionate and curious individual with a keen interest in programming, graphics designing, psychology, and space exploration. My Instagram{" "}
               <a
                 href="https://instagram.com/priyansxu_gupta"
                 target="_blank"
