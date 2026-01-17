@@ -86,10 +86,6 @@ export default function RootLayout({
   return (
     <html lang="en">
       <Head>
-        <meta
-          name="google-site-verification"
-          content="Xg5U8CHuKB1K4w5IviBe8YCMebJl0NAwl2f_WArwERc"
-        />
         <script
           defer
           src="https://cloud.umami.is/script.js"
